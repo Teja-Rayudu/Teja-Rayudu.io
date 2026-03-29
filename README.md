@@ -68,41 +68,10 @@ A modern, responsive portfolio website built with **HTML5**, **CSS3**, and **Jav
 
 ## 🚀 Deployment
 
-### Option 1: GitHub Pages (Recommended)
+### GitHub Pages (Recommended)
 1. Create a GitHub repository named `yourusername.github.io`
 2. Push this folder to the repository
 3. Website will be available at `https://yourusername.github.io`
-
-### Option 2: Netlify
-1. Connect your GitHub repository to Netlify
-2. Set build command: (leave blank - static site)
-3. Set publish directory: `.` (root)
-4. Deploy!
-
-### Option 3: Vercel
-1. Connect GitHub repository to Vercel
-2. Import project
-3. Click Deploy
-4. Website ready instantly
-
-### Option 4: Traditional Hosting
-1. Download/clone the repository
-2. Upload all files to your web hosting provider
-3. Access via your domain
-
-### Option 5: Local Testing
-1. Open `index.html` in a web browser
-2. Or use Live Server:
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
-   
-   # Using Node.js (with http-server)
-   npx http-server
-   
-   # Using VS Code
-   # Right-click index.html > Open with Live Server
-   ```
 
 ## 📂 Project Structure
 
@@ -174,7 +143,7 @@ To enhance SEO, add meta tags to `<head>`:
 ```html
 <meta name="description" content="Portfolio of Yamalapati Teja Rayudu - Software Engineer, Cloud Engineer, AI Enthusiast">
 <meta name="keywords" content="developer, programmer, cloud engineer, AI, full-stack">
-<meta property="og:title" content="Teja Rayudu - Full Stack Developer">
+<meta property="og:title" content="Teja Rayudu -  Developer">
 <meta property="og:description" content="Software Engineer | Cloud Engineer | AI Enthusiast">
 <meta property="og:image" content="[your-image-url]">
 ```
@@ -211,18 +180,3 @@ If you use this template and improve it, feel free to share your enhancements!
 
 Built with ❤️ and styled with 🎨
 
----
-
-## Quick Start Checklist
-
-- [ ] Customize name and personal information
-- [ ] Update social media links
-- [ ] Modify project descriptions
-- [ ] Update skills section
-- [ ] Add certifications
-- [ ] Deploy to GitHub Pages/Netlify/Vercel
-- [ ] Test on mobile devices
-- [ ] Add Google Analytics
-- [ ] Share with network!
-
-Enjoy your new portfolio! 🚀
